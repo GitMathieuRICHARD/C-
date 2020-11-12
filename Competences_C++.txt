@@ -46,7 +46,7 @@ Combiner des tables à l'aide de la commande JOIN
 
 /* ----------------------------------------------------------------------------------- */
 
-Plan de cours C++ :
+Plan de cours C++ Avancé :
 
 Plan de cours :
 
@@ -170,6 +170,8 @@ Approche Test Driven Design (TDD) en C++ avec GoogleTest
     Préparation et mutualisation des tests avec les Test fixtures
 
 /* ----------------------------------------------------------------------------------- */
+
+Plan de cours C++ Avancé :
 
 Les classes en C++
 
@@ -362,5 +364,225 @@ Performances
 
 Introduction
 Résumé des bonnes pratiques
+
+/* ----------------------------------------------------------------------------------- */
+
+Plan de cours C++ Débutant :
+
+ 1) Créer ses notions clés sur la personnalisation et organisation
+
+    L'identification de versions et standardisation
+    Construire les méthodes fondamentales sur la définition de l'incompatibilité entre le C et le langage de programmation
+    La gestion de la spécificité de C
+    Définir des bases sur la méthodologie de migration de C vers le langage de programmation
+    La personnalisation de programme d'orientation des objets
+    S'approprier les incontournables sur la prise en main de concept général des langages orientés Objet: classe, instanciation
+    L'administration de l'environnement: pré-compilateur, bibliothèques, mise au point en Langage C++
+    Construire les concepts élémentaires sur l'outil d'amélioration du langage de programmation par rapport au C AINSI
+    L'élément commun: déclarations, références
+    Concevoir les notions clés sur la personnalisation de l'environnement de développement
+    L'exploration du critère de qualité dans un développement du langage de programmation en Langage C++
+
+2) S'approprier les méthodes fondamentales sur la prise en main de l'outil
+
+    Savoir gérer le paramétrage de la compilation en Langage C++
+    L'exploitation d'une application en Langage C++
+    Acquérir les notions élémentaires sur l'administration d'une grammaire locale: variables, structures, boucles en Langage C++
+    Le paramétrage de fonction main
+    Intégrer les notions incontournables sur le paramétrage de fonction standard d'E/S en Langage C++
+    La configuration d'éditeur en Langage C++
+    Intégrer les notions élémentaires sur la découverte de l'optimisation du code en Langage C++
+    La gestion de code
+    Construire les fondamentaux sur la gestion de la compilation sous Linux en Langage C++
+    L'exploration de son environnement
+
+3) Acquérir les connaissances fondamentales sur la découverte de l'espace de nommage
+
+    S'approprier les notions clés sur l'organisation de variables, utilisation en Langage C++
+    L'organisation de format d'affichage
+    S'approprier les basiques sur la configuration de transtypage en Langage C++
+    La découverte d'arithmétique et opérations diverses, les conditions
+    S'approprier les méthodes sur l'information sur la constante typée en Langage C++
+    L'exploitation de structure conditionnelle
+    Créer ses notions clés sur l'étude de données multiples en Langage C++
+    La mise au point de tableau en Langage C++
+    Acquérir les connaissances fondamentales sur l'identification de l'accès à une mémoire quelconque en Langage C++
+    La méthodologie d'énumération
+    Préparer la mise en place de prototypage et définition en Langage C++
+    La prise en main des passages de paramètres: par valeur, par adresse, par référence
+    Intégrer les compétences fondamentales sur la prise en main de référence et valeur de retour en Langage C++
+    L'information sur le surcharge de fonction
+    Devenir rassuré sur l'information sur la fonction finline en Langage C++
+    La mise en oeuvre de récursivité
+    Définir des basiques sur la découverte des fichiers sources en Langage C++
+    L'organisation des namespaces nommés en Langage C++
+    Définir les notions élémentaires sur la découverte de l'espace de nommage en Langage C++
+    L'outil de déclaration Using, Directive Using namespace
+    Créer ses fondamentaux sur la définition de surcharge des noms en Langage C++
+    L'organisation de valeur du retour des fonctions
+    Définir des compétences fondamentales sur la personnalisation du principe des fonctions en Langage C++
+
+4) Intégrer les notions clés sur la personnalisation de syntaxe
+
+    La configuration de données: définition, initialisation, types de données en Langage C++
+    Acquérir les concepts élémentaires sur l'outil d'expression: notion de référence, mécanismes de cast
+    La gestion des opérateurs: new, delete
+    Acquérir les méthodes fondamentales sur l'utilisation de fonction
+    La personnalisation du code C dans un programme
+    Savoir gérer l'exploitation de référence: arguments et valeurs de retour
+    La personnalisation de la syntaxe de base
+    S'approprier les bases sur l'outil de commentaire du code
+    La personnalisation des données en entrées des fonctions en Langage C++
+    Créer ses notions incontournables sur la mise en oeuvre de point d’entrée
+    La configuration des applications C+ en Langage C++
+
+5) Préparer la mise en place de programmation Orientée Objet
+
+    Acquérir les méthodes sur la mise en place de méthodes en Langage C++
+    L'exploration de déclaration d'une variable de structure en Langage C++
+    S'approprier les concepts élémentaires sur la personnalisation d'une structure constante, le mot clé "mutable" en Langage C++
+    L'exploitation d'une structure comme paramètres de fonctions en Langage C++
+    Concevoir les basiques sur l'organisation de l'apport d'objet sur le procédural en Langage C++
+    La notion d'instanciation statique ou dynamique en Langage C++
+    S'approprier les fondamentaux sur la découverte de l'instance en Langage C++
+    La détermination de constructeur, destructeur, surcharge en Langage C++
+    Apprendre à travailler l'exploitation de champ statique et méthode de classe en Langage C++
+    La mise en oeuvre d'encapsulation des données: accesseurs et modifieurs
+    Acquérir les compétences fondamentales sur le problème et solutions en Langage C++
+    L'utilisation de polymorphismes en Langage C++
+    Définir des bases incontournables sur l'identification de principe général des techniques Objet en Langage C++
+    L'administration du langage de programmation et la programmation Objet
+    Construire les compétences fondamentales sur l'organisation des méthodologies orientées Objet en Langage C++
+    La personnalisation des modèles et à la notation UML: modèle statique, dynamique en Langage C++
+    S'approprier les basiques sur la définition de l'approche procédurale en Langage C++
+    La mise en oeuvre des fonctions en Langage C++
+    Travailler en confiance l'utilisation de l'approche modulaire en Langage C++
+    L'information sur le prototypage
+    Définir des compétences sur la gestion de l'approche objet en Langage C++
+    La personnalisation de classe et objet
+    Concevoir la prise en main de relation entre objets en Langage C++
+    La découverte du paramètre THIS en Langage C++
+    Construire les méthodes sur la gestion d'un programme simple en Langage C++
+    Le paramétrage de la mémoire
+    Intégrer les fondamentaux sur la manipulation de bibliothèque standard du langage en Langage C++
+    La détermination de membre et méthode de classe: virtuelles, virtuelles pures en Langage C++
+    Être rassuré sur l'exploitation de dérivation et héritage: simple, multiple en Langage C++
+
+6) Créer ses connaissances sur l'exploration de surcharge des opérateurs
+
+    L'utilisation du mécanisme général
+    Devenir confiant sur la détermination d'une solution idéale
+    La mise en oeuvre de principe de la surcharge
+    S'approprier les notions incontournables sur la détermination de surcharge des opérateurs binaires
+    L'identification de surcharge des opérateurs de gestion mémoire
+    Construire les bases sur l'exploration d'une surcharge par une fonction membre
+    L'organisation de constructeur de copie
+    Acquérir les connaissances sur la détermination de valeur par défaut des arguments
+    La définition d'opérateur de conversion
+    Devenir en confiance sur la définition d'opérateur d'affectation
+    La configuration d'opérateur et fonction
+    Créer ses compétences sur le système de conversion vers un type de classe
+    Le système de conversion vers un type primitif
+    Devenir en confort sur l'utilisation de surcharge d'opérateur "operator-overloading": les décalages, les conversions
+
+7) Intégrer les compétences fondamentales sur le système de programmation fonctionnelle: syntaxe
+
+    Le déplacement de template de fonction et exemples fondamentaux en Langage C++
+    Concevoir les notions élémentaires sur la configuration de template de classe
+    La détermination d'instanciation de template
+    Créer ses notions élémentaires sur l'exploitation du code C dans un programme
+    Le contrôle d'opérateur et instruction de contrôle
+
+8) Concevoir les compétences fondamentales sur la présentation de l'exception
+
+    Construire les notions clés sur l'utilisation du principe et mécanisme de gestion des exceptions en Langage C++
+    L'exploitation des ressources dynamiques lors d'une exception en Langage C++
+    Être confiant sur le champ et méthode statique en Langage C++
+    La technique de conception des classes
+    Commencer sur la programmation d'exception dans le langage de programmation: notamment exceptions imbriquées en Langage C++
+    L'exploration de classe d’exception applicative en Langage C++
+    Concevoir les méthodes fondamentales sur l'identification des erreurs dans les programmes en Langage C++
+
+9) Devenir rassuré sur la mise en place de bibliothèque standard du langage de programmation
+
+    Le paramétrage du langage de programmation, la documentation
+    S'approprier les notions élémentaires sur la mise en place de l'accès aux fichiers
+    La mise au point des bibliothèques de présentation: SDL, API Win32, MFC, NET en Langage C++
+    Acquérir les compétences sur la mise en place de variable
+    La fonction de booléen
+    Intégrer les connaissances sur la découverte de variable locale
+    La détermination de variable globale
+    S'approprier les compétences sur la gestion de donnée et algorithme
+    La mise en place de pointeur et référence
+    Apprendre à gérer l'exploitation de la mémoire
+    La mise en place d'arithmétique simple
+    Créer ses concepts élémentaires sur l'exploration de conteneur d'objet
+    La manipulation de chaîne de caractère en Langage C++
+    Créer ses méthodes fondamentales sur l'outil de manipulation de la liste
+    Le paramètre du format
+    S'approprier les méthodes sur l'identification de fonction get, put et getline
+    La découverte de catégorie d’itérateur
+    Intégrer les basiques sur l'outil d'organisation
+    L'exploration de point clé de la STL: principaux conteneurs, savoir les choisir, itérateurs
+
+10) Acquérir les basiques sur l'organisation de classe et les objets
+
+    Comprendre l'exploitation d'autoréférence en Langage C++
+    Le contrôle de fonction
+    Être à l'aise sur l'exploration de méthode et les classes Friend en Langage C++
+    La manipulation des tableaux d'objets en Langage C++
+    Intégrer les méthodes sur la mise au point de constructeur de copie et de déplacement en Langage C++
+    La méthodologie de délégation de constructeurs en Langage C++
+    Acquérir les fondamentaux sur l'identification de la problématique de gestion mémoire: pile, tas, ramasse-miettes en Langage C++
+
+11) Définir des basiques sur l'identification de l'héritage: factorisation des traitements
+
+    L'exploration de l'héritage, la réutilisabilité en Langage C++
+    S'approprier les connaissances sur l'outil de traitement de l'héritage simple
+    La définition d'héritage multiple: possibilité, problèmes, conseils
+    Construire les compétences sur l'exploration de classe dérivée
+    L'organisation de contrôle d'accès en Langage C++
+    Concevoir les connaissances fondamentales sur la mise au point de code: les classes abstraites
+    Le paramètre de l'interface en Langage C++
+    Construire les connaissances sur la technique de dérivation multiple
+    La détermination d'aspect sémantique et méthodologique: la factorisation du code
+
+12) Définir des méthodes sur l'insertion de modèle
+
+    Acquérir les incontournables sur la présentation de modèle de classe en Langage C++
+    La détermination de surcharge des modèles et redéfinition de méthodes en Langage C++
+    Intégrer les concepts élémentaires sur la prise en main de modèle de fonction en Langage C++
+    La gestion de modèle et les mécanismes de dérivation en Langage C++
+    Intégrer les connaissances fondamentales sur la méthodologie d'amélioration proposée par C++ 11 en Langage C++
+    L'identification de quelque classe d'entrée, sortie
+    S'approprier les incontournables sur la notion sur la STL en Langage C++
+    La prise en main d'objectif et principe en Langage C++
+    Identifier la gestion de conteneur, des itérateurs, de la boucle basée sur un intervalle en Langage C++
+    La prise en main de classe paramétrée en Langage C++
+    Savoir travailler la détermination de paramètre par défaut en Langage C++
+    La gestion d'instanciation
+    Être en confort sur l'exploration de paramètre utilisable en Langage C++
+    La méthodologie de spécialisation partielle en Langage C++
+
+13) Définir les notions élémentaires sur la définition de programme avancée
+
+    S'approprier la mise en place de traitement des données hétérogènes en Langage C++
+    L'organisation de fonction virtuelle
+    Débuter sur l'exploitation du design Pattern en Langage C++
+    L'organisation de fonction d'entrée, sortie
+    Démarrer sur l'organisation de librairie des flux standard en Langage C++
+    L'administration de généricité: les templates, introduction à la STL
+    Définir les notions incontournables sur la découverte des erreurs: les différentes stratégies, les exceptions en Langage C++
+    La personnalisation de l'analyse et implémentation d'un exemple
+    S'approprier les compétences fondamentales sur la définition de modèle « templates »: définitions, syntaxe et instanciation en Langage C++
+    L'organisation d'optimisation en Langage C++
+    Concevoir les compétences sur le système de conception en Langage C++
+
+14) Définir les notions clés sur la définition de la conclusion
+
+    La prise en main de cycle de vie du langage de programmation: test, intégration, méthode de mise en production en Langage C++
+    Créer ses compétences fondamentales sur la gestion d'interaction avec les autres environnements
+    Le système d'analyse critique du langage de programmation en Langage C++
+    Construire les notions élémentaires sur l'identification de PDF
 
 
