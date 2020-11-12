@@ -1,0 +1,175 @@
+Plan de cours Qt Core Advances - C++
+
+Plan cours :
+
+Gestion des threads / sockets
+UDP Programming
+Thread Pool
+SSL SOCKETS
+Création de librairies
+Utilisation de MySQL
+Insertion, supression et interrogation de données dans une base de données
+Test unitaire
+Tests pilotés par les données
+Déploiement d'application sur Windows, Mac et Linux
+Application Images
+Framework Qt Installer
+Techniques avancées C++
+Gestion de la concurrence
+Programmation TCP
+Programmation Client / server
+Deisgn TCP Multi-threadé
+Creation de certificat SSL
+Creation de bibliothèques dynamique et partagé
+Extension QT application avec plugins
+Plugins base de données
+Test des pilotes de base de données
+Framework Qt Test
+Bencharmking
+Static build
+Compression des binaires d'application
+
+/* ----------------------------------------------------------------------------------- */
+
+Plan de cours SQL :
+
+Plan de cours :
+
+Maîtriser l'essentiel du langage SQL pour extraire des données depuis des bases de données 
+
+Extraire des données depuis n'importe quelle base de données en SQL
+Grouper des données pour effectuer des calculs sur chaque groupe
+Utiiser les bases de données SQL dans un but marketing
+Toutes les bases SQL : afficher des colonnes depuis une table, créer des condtions, tirer les donénes
+Combiner des tables à l'aide de la commande JOIN
+
+
+/* ----------------------------------------------------------------------------------- */
+
+Plan de cours C++ :
+
+Plan de cours :
+
+Nouveautés fondamentales de la norme C++11/14
+
+    nullptr_t et le littéral nullptr
+    Les nouveaux types, littéraux et séparateurs
+    Variables templates
+    Initialisation uniforme
+    Initialisation de tableaux et collections
+    Parcours unifié des tableaux et conteneurs
+    Listes d’initialisation avec initializer_listT>
+    La boucle "range based" for
+    Énumérations fortement typées
+    Types normalisés et variantes (uint_8, uint64_t, ...)
+    Contrôle de l’alignement mémoire
+    Inférence de types et de signatures avec auto
+    C++14 et déduction étendue
+    Les nouveaux spécificateurs de classe (override, default, delete, final)
+    Constructeur délégué
+    Constructeur hérité
+    Alias et using
+    Expressions constantes avec constexpr
+    Gestion du temps, l’espace de nom chrono
+
+Move semantics
+
+    Copie versus déplacement
+    Value et RValue reference
+    La fonction move
+    Move constructor et move assignement operator
+    Héritage et move constructor / op=
+    STL C++11 et swap / move
+    Signature reference qualifiers
+    Mauvaises pratiques
+
+Gestion des ressources
+
+    Resource Acquisition Is Initialization (RAII)
+    L’opérateur -> avec ou sans généricité
+    Propriété et transfert de responsabilité
+    La classe unique_ptr
+    Unique_ptr et tableaux dynamiques
+    Comptage de références avec la classe shared_ptr
+    Custom deleter
+    Les fonctions make_unique (C++14) et make_shared
+    La classe weak_ptr et le référencement circulaire
+
+Gestion avancée des exceptions
+
+    Principes
+    Dynamique
+    Traiter une exception
+    Concevoir et hiérarchiser les exceptions
+    Traitement par défaut
+    Les exceptions prédéfinies
+    Abraham’s Exception safety guarantees
+    La clause C++11 noexcept
+
+Héritage avancé
+
+    Surcharge et ambiguïtés
+    Héritage public et redéfinition privée
+    Héritage privé et protégé
+    Héritage multiple
+    Héritage en diamant
+    Héritage virtuel et dominance
+
+Programmation fonctionnelle avec C++ 11/14
+
+    Problématique de l’abonnement
+    Les classe function et mem_fn
+    Binding, placeholders
+    Adaptateurs de références
+    Les lambda-expression
+
+Utilisation avancée de la généricité
+
+    Typage multiple
+    Inférence des retours avec decltype
+    Paramétrage / spécialisation des méthodes
+    Perfect forwarding avec std::forward
+    Héritage / containment et généricité
+    Méta-programmation
+    L’idiome CRTP Curiously Recursive Template Pattern
+    Typologie C++ et classes de traits
+    Assertions statiques avec static_assert
+    Extended friend declaration
+    Les variadic templates, pattern matching et héritage multiple
+    SFINAE Substitution Failure Is Not An Error
+
+Nouveautés C++11 de la librairie standard
+
+    Les nouveaux itérateurs cbegin
+    Les tableaux à taille fixe avec std ::array
+    Les nouvelles collections associatives : unordered_map/set
+    Singly-Linked Lists
+    Le conteneur tuple
+    Adaptateurs d’itérateurs, stream itérateurs
+    Les nouveaux algorithmes ensemblistes
+
+Multithreading
+
+    Principes
+    Démarrage et détachement d’un thread
+    La classe std ::call_once
+    L’espace de noms this_thread
+    Futures / promises et packaged_task
+    Programmation asynchrone avec async
+    Politiques de démarrage
+    Comparaison thread versus future
+    Partage de ressources et mécanismes de synchronisation
+    Mutexes et données atomiques
+    Unique-lock et lock_guard
+
+Approche Test Driven Design (TDD) en C++ avec GoogleTest
+
+    Concepts
+    Assertions et tests élémentaires
+    Tests multiples : suites de tests et Test Cases
+    Préparation et mutualisation des tests avec les Test fixtures
+
+
+
+
+
